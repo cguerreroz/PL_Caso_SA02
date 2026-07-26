@@ -2,7 +2,7 @@
 DASHBOARD INTERACTIVO DE OPTIMIZACIÓN DE PRODUCCIÓN
 Autor: Especialista en Optimización y Ciencia de Datos
 Tecnología: Streamlit + Scipy (no requiere licencia)
-Versión: 2.0 - Compatible con Streamlit Cloud
+Versión: 2.1 - Corrección de sintaxis
 """
 
 import streamlit as st
