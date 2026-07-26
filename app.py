@@ -671,3 +671,4 @@ else:
             - **y** = Unidades de Juguete B
             
             **Función Objetivo:**
+    """, unsafe_allow_html=True)
